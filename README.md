@@ -1,6 +1,17 @@
-# neumorph_music_player
+App Name :# **neumorph_music_player**
+# Neumorphic Music Player Design
 
-A new Flutter project.
+A music player in the latest neumorphic design
+
+## Preview Samples
+
+https://ibb.co/VgxQZ25
+
+
+# Design Inspiration
+
+https://dribbble.com/shots/9338617-Simple-Music-Player
+
 
 ## Getting Started
 
